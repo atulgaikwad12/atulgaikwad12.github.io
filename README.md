@@ -1,2 +1,2 @@
-# atulgaikwad12.github.io
-For Github Pages
+# Atul Gaikwad
+Space for public Github Pages
